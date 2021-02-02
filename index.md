@@ -3,7 +3,9 @@
 You can use the [editor on GitHub](https://github.com/fabbrikawj/fabbrikawj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LINK TO DOC SCUOLA COOP](/materiali_politecnico/APILA.pdf) 
 
+[LINK TO DOC SCUOLA COOP2](https://github.com/fabbrikawj/fabbrikawj.github.io/blob/main/materiali_politecnico/APILA.pdf) 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
