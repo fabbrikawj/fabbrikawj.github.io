@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+<html xml:lang="it" lang="it" xmlns:og="http://ogp.me/ns#">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 Non trovato</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="title" content="404 Non trovato" />
+<meta name="description" content="Gli Osservatori Digital Innovation della School of Management del Politecnico di Milano rappresentano il punto di riferimento in Italia sull'innovazione digitale." />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.osservatori.net/skin/frontend/base/default/favicon.ico" />
+
+<script type="text/javascript" src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/js/vendor/min/head.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/js/vendor/min/jquery.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://www.osservatori.net/skin/frontend/osservatori/osservatori/css/style.css" media="all" />
+<script type="text/javascript" src="https://www.osservatori.net/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/braintree/braintree.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/js/braintree/braintree-utils.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/js/scripts.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/skin/frontend/rwd/enterprise/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="https://www.osservatori.net/skin/frontend/rwd/enterprise/js/enterprise/wishlist.js"></script>
+<link href="https://www.osservatori.net/it_it/rss/catalog/new/store_id/1/" title="Nuovi prodotti" rel="alternate" type="application/rss+xml" />
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.osservatori.net';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","HK","MO"];
+//]]>
+</script>
+<!-- Gene_Braintree (My4xLjM=) -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"I tag HTML non sono permessi","Please select an option.":"Selezionare una opzione.","This is a required field.":"Questo \u00e8 un campo obbligatorio.","Please enter a valid number in this field.":"Inserire un numero valido in questo campo.","The value is not within the specified range.":"Il valore non \u00e8 compreso nell\\'intervallo specificato.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"Utilizzare solo numeri in questo campo. Evitare spazi o altri caratteri come punti e virgole.","Please use letters only (a-z or A-Z) in this field.":"Utilizzare solo lettere in questo campo (a-z o A-Z).","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilizzare solo lettere (a-z), numeri (0-9) o underscore(_) in questo campo, la prima lettera deve essere una lettera.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Utilizzare solo lettere (a-z o A-Z) o solo numeri (0-9) in questo campo. Non sono permessi spazi o altri caratteri.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Utilizzare solo lettere (a-z or A-Z) o numeri (0-9) o spazi o solo # in questo campo.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Inserisci un numero di telefono valido. Per esempio (123) 456-7890 o 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Inserire un numero di fax valido. Per esempio (123) 456-7890 or 123-456-7890.","Please enter a valid date.":"Inserire una data valida.","The From Date value should be less than or equal to the To Date value.":"Il valore Dalla Data deve essere minore o uguale al valore della Data A.","Please enter a valid email address. For example johndoe@domain.com.":"Inserire un indirizzo email valido. Per esempio johndoe@domain.com.","Please use only visible characters and spaces.":"Utilizzare solo caratteri visibili e spazi.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Inserire 6 o pi\u00f9 caratteri. Gli spazi iniziali o finali saranno ignorati.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Inserire 7 o pi\u00f9 caratteri. La password dovrebbe contenere sia caratteri numerici che alfabetici.","Please make sure your passwords match.":"Assicurati che le password corrispondano.<br \/> La password deve contenere almeno 6 caratteri.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Inserire un URL valido. Il protocollo \u00e8 obbligatorio (http:\/\/, https:\/\/ or ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Inserire un URL valido. Per esempio http:\/\/www.example.com o www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Inserire un chiave URL valida. Per esempio \"example-page\", \"example-page.html\" o \"anotherlevel\/example-page\".","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Inserire un identificativo XML valido. Per esempio something_1, block5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Inserire un numero valido di previdenza sociale. Per esempio 123-45-6789.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Inserire un codice zip valdio. Per esempio 90602 o 90602-1234.","Please enter a valid zip code.":"Inserire codice zip valido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilizzare questo formato della data: dd\/mm\/yyyy. Per esempio 17\/03\/2006 per il 17 di Marzo, 2006.","Please enter a valid $ amount. For example $100.00.":"Inserire un importo valido di $. Per esempio $100.00.","Please select one of the above options.":"Selezionare una delle opzioni soprastanti.","Please select one of the options.":"Selezionare una delle opzioni.","Please select State\/Province.":"Selezionare Stato\/Provincia.","Please enter a number greater than 0 in this field.":"Insereire un numero maggiore di 0 in questo campo.","Please enter a number 0 or greater in this field.":"Inserire 0 o un numero supereiore in questo campo.","Please enter a valid credit card number.":"Inserire un numero di carta di credito valido.","Credit card number does not match credit card type.":"Il numero della carta di credito non corrisponde al tipo della carta.","Card type does not match credit card number.":"Il tipo di carda non corrisponde con il numero della carta di credito.","Incorrect credit card expiration date.":"Data scadenza carta di credito non corretta.","Please enter a valid credit card verification number.":"Inserire numero di verifica della carta di credito.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"In questo campo utilizzare solo lettere (a-z or A-Z), numeri (0-9) o underscore(_), il primo carattere deve essere una lettera.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Inserire una lunghezza CSS valida. Per esempio 100px o 77pt or 20em o .5ex or 50%.","Text length does not satisfy specified text range.":"La lunghezza del testo non rispetta la lunghezza specificata.","Please enter a number lower than 100.":"Inserire un numero minore di 100.","Please select a file":"Seleziona un file","Please enter issue number or start date for switch\/solo card type.":"Si prega di inserrie il numero di rilascio o la data di inizio per switch\/solo tipo della carta.","Please wait, loading...":"Attendere prego, caricamento...","This date is a required value.":"Questa data \u00e8 un valore obbligatorio.","Please enter a valid day (1-%d).":"Inserisci un giorno valido (1-%d).","Please enter a valid month (1-12).":"Inserire mese (1-12).","Please enter a valid year (1900-%d).":"Inserire anno (1900-%d).","Please enter a valid full date":"Inserire una data completa valida","Please enter a valid date between %s and %s":"Inserire una data valida tra %s e %s","Please enter a valid date equal to or greater than %s":"Inserire una data valida uguale o maggiore di %s","Please enter a valid date less than or equal to %s":"Inserire una data valida inferiore o uguale a %s","Complete":"Completo","Please choose to register or to checkout as a guest":"Scegliere se registrarsi o fare il checkout come ospite","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Il tuo ordine non pu\u00f2 essere completato in questo momento perch\u00e9 non ci sono metodi di spedizioni disponibili per esso. Devi modificare il tuo indirizzo di spedizione .","Please specify shipping method.":"Specificare un metodo di spedizione.","Your order cannot be completed at this time as there is no payment methods available for it.":"Il tuo ordine non pu\u00f2 essere completato in questo momento perch\u00e9 non ci sono metodi di pagamento disponibili per esso.","Please specify payment method.":"Specificare un metodo di pagamento.","Add to Cart":"Aggiungi al Carrello","In Stock":"Disponibile","Out of Stock":"Non disponibile","Save":"Salva","Cancel":"Annulla","Add to Wishlist":"Aggiungi ai Preferiti"});
+        //]]></script>
+<script type="text/javascript">
+
+	/** 
+	* Magento Enhanced Ecommerce Event Tracking for Google Tag Manager
+	*
+	* @author Anowave
+	* @see http://www.anowave.com/marketplace/magento-extensions/magento-google-tag-manager-enhanced-ecommerce-ua-tracking/
+	* @copyright 2016 Anowave
+	*/
+
+	window.dataLayer = window.dataLayer || [], collection = [], AEC = {};
+
+	/**
+	 * Timing contats
+	 */
+	AEC.Const = 
+	{
+		TIMING_CATEGORY_ADD_TO_CART:		'Add To Cart Time',
+		TIMING_CATEGORY_REMOVE_FROM_CART:	'Remove From Cart Time',
+		TIMING_CATEGORY_PRODUCT_CLICK:		'Product Detail Click Time',
+		TIMING_CATEGORY_CHECKOUT:			'Checkout Time',
+		TIMING_CATEGORY_CHECKOUT_STEP:		'Checkout Step Time',
+		URL:								'https://www.osservatori.net/it_it/'
+	};
+
+
+        AEC.newsletter = function(context, dataLayer){
+            var data = {
+                'event': 'iscrizioneNewsletterHp',
+            }
+            dataLayer.push(data);
+            return true;
+        }
+
+	/**
+	 * Track "Add to cart" from detail page - Aggiunto tracking iscrizione convegno
+	 * 
+	 * @param (domelement) context
+	 * @param (object) dataLayer
+	 * @return boolean
+	 */
+	AEC.ajax = function(context,dataLayer)
+	{
+		var element = jQuery(context), qty = jQuery(':radio[name=qty]:checked, :text[name=qty], select[name=qty]').eq(0).val(), variant = [];
+
+		if (1)
+		{
+			jQuery.each(['id','name','category','brand','price','quantity'], function(index, attribute)
+			{
+				element.data(attribute, element.attr('data-' + attribute));
+			});
+		}
+
+		if (!AEC.gtm())
+		{
+			/**
+			 * Invoke original click event(s)
+			 */
+			if (element.data('click'))
+			{
+				/**
+				 * Track time 
+				 */
+				AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_ADD_TO_CART, element.data('name'), element.data('category'));
+				
+				eval(element.data('click'));
+			}
+			
+			return true;
+		}
+		
+		if(element.data('configurable'))
+		{
+			var attributes = jQuery('[name^="super_attribute"]'), variants = [];
+
+			/**
+			 * Load super attsibutes
+			 */
+
+			 var SUPER = [];
+
+			 
+			jQuery.each(attributes, function(index, attribute)
+			{
+				if (jQuery(attribute).is('select'))
+				{
+					var name = jQuery(attribute).attr('name'), id = name.substring(name.indexOf('[') + 1, name.lastIndexOf(']'));
+
+					var option = jQuery(attribute).find('option:selected');
+
+					if (0 < parseInt(option.val()))
+					{
+						variants.push(
+						{
+							id: 	id,
+							text: 	option.text()
+						});
+					}
+				}
+			});
+
+			if (attributes.length == variants.length)
+			{
+				for (i = 0, l = variants.length; i < l; i++)
+				{
+					for (a = 0, b = SUPER.length; a < b; a++)
+					{
+						if (SUPER[a].id == variants[i].id)
+						{
+							variant.push(
+							[
+								SUPER[a].label,
+								variants[i].text
+							].join(':'));
+						}
+					}
+				}
+			}
+
+			if (!variant.length)
+			{
+				/**
+				 * Invoke original click event(s)
+				 */
+				if (element.data('click'))
+				{
+					/**
+					 * Track time 
+					 */
+					AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_ADD_TO_CART, element.data('name'), element.data('category'));
+					
+					eval(element.data('click'));
+				}
+				
+				return false;
+			}
+		}
+
+		if (element.data('grouped'))
+		{
+			for (u = 0, y = window.G.length; u < y; u++)
+			{
+				var qty = Math.abs(jQuery('[name="super_group[' + window.G[u].id + ']"]').val());
+
+				if (qty)
+				{
+					collection.push(
+					{
+						'name': 		window.G[u].name,
+						'id': 		    window.G[u].sku,
+						'price': 		window.G[u].price,
+						'category': 	window.G[u].category,
+						'brand':		window.G[u].brand,
+						'quantity': 	qty
+					});
+				}
+			}
+		}
+		else
+		{
+			collection.push(
+			{
+				'name': 		element.data('name'),
+				'id': 		    element.data('id'),
+				'price': 		element.data('price'),
+				'category': 	element.data('category'),
+				'brand':		element.data('brand'),
+				'variant':		variant.join('-'),
+				'quantity': 	qty
+			});
+		}
+
+
+                
+		var data = 
+		{
+			'event': 'addToCart',
+			'eventLabel': element.data('name'),
+			'ecommerce': 
+			{
+				'currencyCode': 'EUR',
+				'add': 
+				{
+					'products': collection
+				}
+			}
+		};
+
+		/**
+		 * Track event
+		 */
+		dataLayer.push(data);
+
+		/**
+		 * Track time 
+		 */
+		AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_ADD_TO_CART, element.data('name'), element.data('category'));
+		
+		/**
+		 * Invoke original click event(s)
+		 */
+		if (element.data('click'))
+		{
+			eval(element.data('click'));
+		}
+
+
+		/**
+		 * Facebook Pixel Tracking
+		 */
+				
+		return true;
+	}
+
+	/**
+	 * Track direct "Add to cart" from category listing
+	 * 
+	 * @param (domelement) context
+	 * @param (object) dataLayer
+	 * @return boolean
+	 */
+	AEC.ajaxList = function(context,dataLayer)
+	{
+		var element = jQuery(context);
+
+		if (1)
+		{
+			jQuery.each(['id','name','category','brand','price','quantity'], function(index, attribute)
+			{
+				element.data(attribute, element.attr('data-' + attribute));
+			});
+		}
+
+		if (!AEC.gtm())
+		{
+			/**
+			 * Invoke original click event(s)
+			 */
+			if (element.data('click'))
+			{
+				/**
+				 * Track time 
+				 */
+				AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_ADD_TO_CART, element.data('name'), element.data('category'));
+				
+				eval(element.data('click'));
+			}
+			
+			return true;
+		}
+
+		collection.push(
+		{
+			'name': 		element.data('name'),
+			'id': 		    element.data('id'),
+			'price': 		element.data('price'),
+			'category': 	element.data('category'),
+			'brand':		element.data('brand'),
+			'quantity': 	1
+		});
+
+		var data = 
+		{
+			'event': 'addToCart',
+			'eventLabel': element.data('name'),
+			'ecommerce': 
+			{
+				'currencyCode': 'EUR',
+				'add': 
+				{
+					'products': collection
+				}
+			}
+		};
+
+		/**
+		 * Track event
+		 */
+		dataLayer.push(data);
+
+		/**
+		 * Track time 
+		 */
+		AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_ADD_TO_CART, element.data('name'), element.data('category'));
+		
+		/**
+		 * Invoke original click event(s)
+		 */
+		if (element.data('click'))
+		{
+			eval(element.data('click'));
+		}
+
+
+		/**
+		 * Facebook Pixel Tracking
+		 */
+				
+		return true;
+	}
+
+	/**
+	 * Track "Remove From Cart" event
+	 *
+	 * @param (domelement) context
+	 * @param (object) dataLayer
+	 * @return boolean
+	 */
+	AEC.remove = function(context, dataLayer)
+	{
+		var element = jQuery(context);
+
+		if (1)
+		{
+			jQuery.each(['id','name','category','brand','price','quantity'], function(index, attribute)
+			{
+				element.data(attribute, element.attr('data-' + attribute));
+			});
+		}
+		
+		if (!AEC.gtm())
+		{
+			/**
+			 * Track time 
+			 */
+			AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_REMOVE_FROM_CART, element.data('name'), element.data('category'));
+			
+			return true;
+		}
+
+		var data = 
+		{
+			'event': 'removeFromCart',
+			'eventLabel': element.data('name'),
+			'ecommerce': 
+			{
+				'remove': 
+				{   
+					'products': 
+					[
+						{ 
+							'name': 		element.data('name'),
+							'id': 			element.data('id'),
+							'price': 		element.data('price'),
+							'category': 	element.data('category'),
+							'brand':		element.data('brand'),
+							'quantity': 	element.data('quantity')
+						}
+					]
+				}
+			}
+		};
+
+		
+		if (confirm('Sei sicuro di voler rimuovere questo articolo dal carrello?'))
+		{
+			/**
+			 * Track event
+			 */
+			dataLayer.push(data);
+
+			/**
+			 * Track time 
+			 */
+			AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_REMOVE_FROM_CART, element.data('name'));
+
+			return true;	
+		}
+		
+		return false;
+	}
+
+	/**
+	 * Track "Product click" event
+	 *
+	 * @param (domelement) context
+	 * @param (object) dataLayer
+	 * @return boolean
+	 */
+	AEC.click = function(context,dataLayer)
+	{
+		var element = jQuery(context);
+
+		if (1)
+		{
+			jQuery.each(['id','name','category','brand','price','quantity'], function(index, attribute)
+			{
+				element.data(attribute, element.attr('data-' + attribute));
+			});
+		}
+		
+		if (!AEC.gtm())
+		{
+			/**
+			 * Track time 
+			 */
+			AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_PRODUCT_CLICK, element.data('name'), element.data('category'));
+			
+			return true;
+		}
+
+		var data = 
+		{
+			'event': 'productClick',
+			'eventLabel': element.data('name'),
+			'ecommerce': 
+			{
+				'click': 
+				{
+					'actionField': 
+					{
+						'list': element.data('category')
+					},
+					'products': 
+					[
+						{
+							'name': 		element.data('name'),
+							'id': 			element.data('id'),
+							'price': 		element.data('price'),
+							'category': 	element.data('category'),
+							'brand':		element.data('brand'),
+							'quantity': 	element.data('quantity')
+						}
+					]
+				}
+			},
+			'eventCallback': function() 
+			{
+				if (element.data('click'))
+				{
+					eval(element.data('click'));
+				}
+				else if (element.is('a'))
+				{
+					document.location = element.attr('href');
+				}
+				else 
+				{
+					return true;
+				}
+	     	}		
+		};
+
+		/**
+		 * Push data
+		 */
+		dataLayer.push(data);
+
+		/**
+		 * Track time 
+		 */
+		AEC.Time.track(dataLayer, AEC.Const.TIMING_CATEGORY_PRODUCT_CLICK, element.data('name'), element.data('category'));
+
+		if (element.data('click'))
+		{
+			eval(element.data('click'));
+		}
+		
+		return true;
+	}
+
+	/**
+	 * Check if GTM snippet is available on page.
+	 *
+	 * @param void
+	 * @return boolean
+	 */
+	AEC.gtm = function()
+	{
+		if ("undefined" === typeof google_tag_manager)
+		{
+			/**
+			 * Log error to console
+			 */
+			log('Unable to detect Google Tag Manager. Please verify if GTM install snippet is available.');
+			
+			return false;
+		}
+
+		return true;
+	}
+
+
+	/**
+	 * User timing
+	 */
+
+	AEC.Time = (function()
+	{
+		var T = 
+		{
+			event: 			'trackTime',
+			timingCategory:	'',
+			timingVar:		'',
+			timingValue:	-1,
+			timingLabel:	''
+		};
+
+		var time = new Date().getTime();
+		
+		return {
+			track: function(dataLayer, category, variable, label)
+			{
+				T.timingValue = (new Date().getTime()) - time;
+				
+				if (category)
+				{
+					T.timingCategory = category;
+				}
+
+				if (variable)
+				{
+					T.timingVar = variable;
+				}
+
+				if (label)
+				{
+					T.timingLabel = label;
+				}
+				
+				/**
+				 * Track time
+				 */
+				dataLayer.push(T);
+			},
+			trackContinue: function(dataLayer, category, variable, label)
+			{
+				this.track(dataLayer, category, variable, label);
+
+				/**
+				 * Reset time
+				 */
+				time = new Date().getTime();
+			}
+		}
+	})();
+
+	/**
+	 * Log error messages to console
+	 *
+	 * @param (string) message
+	 * @return null
+	 */
+	var log = function (message) 
+	{
+	   	window.console && console.log ? console.log(message) : null;
+	};
+
+		
+</script>  </head>
+  <body class=" cms-index-noroute cms-no-route">
+                <div id="v-cookielaw"
+     class="v-bar v-yellow-alert v-top"
+     style="display: none">
+    <div class="v-message">
+        L'accesso al sito implica l'accettazione dell'uso di cookie per analisi statistiche, contenuti personalizzati e pubblicità.    </div>
+    <div class="v-actions">
+        <a href="javascript:cookieLawAccept();" class="v-button v-accept">
+            Accetta        </a>
+        <a href="https://www.osservatori.net/it_it/cookie-policy/" class="v-button">
+            Cookie Policy        </a>
+    </div>
+</div>
+<script type="text/javascript">
+    function cookieLawAccept() {
+        var d = null;
+        if (365) {
+            d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+        }
+        Mage.Cookies.set('cookielaw', '1', d);
+        document.getElementById('v-cookielaw').style.display = 'none';
+    }
+
+    if (!Mage.Cookies.get('cookielaw')) document.getElementById('v-cookielaw').style.display = '';
+
+    </script>
+    <script type="text/javascript">
+
+	var EC = [], Purchase = [], FacebookProducts = [];
+
+	window.dataLayer = window.dataLayer || [];
+
+	/* Dynamic remarketing */
+	window.google_tag_params = window.google_tag_params || {};
+
+	/* Default pagetype */
+	window.google_tag_params.ecomm_pagetype = 'other';
+
+	/* Set ecomm_pagetype */
+	
+	/* Grouped products collection */
+	window.G = [];
+
+	/**
+	 * Global revenue 
+	 */
+	window.revenue = 0;
+
+	/**
+	 * DoubleClick
+	 */
+	window.DoubleClick = 
+	{
+		DoubleClickRevenue:	 	0,
+		DoubleClickTransaction: 0,
+		DoubleClickQuantity: 	0
+	}
+
+	/**
+	 * Custom dimensions
+	 */
+	EC.push(function(dataLayer)
+	{
+		var dimensions = {"pageType":"Altro","pageName":"404 Non trovato"};
+
+		if (dimensions && dimensions.hasOwnProperty('pageType'))
+		{
+			dataLayer.push(dimensions);
+		}
+	});
+	
+	/**
+	* EC Purchase
+	*
+	*/
+	
+	if (Purchase.length)
+	{
+		EC.push(function(dataLayer)
+		{
+			for (i = 0, l = Purchase.length; i < l; i++)
+			{
+				dataLayer.push(Purchase[i]);
+			}
+		});
+
+		/**
+		 * Facebook Pixel Tracking
+		 */
+			}
+</script>
+    <div class="wrapper">
+        <noscript>
+  <div class="global-site-notice noscript">
+    <div class="notice-inner">
+      <p>
+        <strong>JavaScript sembra essere disabilitato nel tuo browser.</strong><br />
+        Devi abilitare JavaScript nel tuo browser per utlizzare le funzioni di questo sito.      </p>
+    </div>
+  </div>
+  </noscript>
+      <div class="page flex-displayed flex-column">
+        
+<header id="header">
+  <div class="top-header flex-displayed flex-justify-between">
+    <ul class="button-panel clearfix no-display">
+      <li class="fl-left">
+        <button type="button" class="btn-burger flex-centered no-display">
+          <span class="line rel-container"></span>
+        </button>
+      </li>
+      <li class="fl-left">
+        <button type="button" class="btn-search rel-container"></button>
+      </li>
+    </ul><!--button-panel-->
+    <ul class="social-group white clearfix">
+        <li class="fl-left">
+            <a href="https://www.linkedin.com/company/2383719" target="_blank">
+              <span class="socicon-linkedin"></span>
+            </a>
+        </li>
+        <li class="fl-left">
+            <a href="https://twitter.com/Osserv_Digital" target="_blank">
+              <span class="socicon-twitter"></span>
+            </a>
+        </li>
+        <li class="fl-left">
+            <a href="https://www.facebook.com/osservatoridigitalinnovation/" target="_blank">
+                <span class="socicon-facebook"></span>
+            </a>
+        </li>
+        <li class="fl-left">
+            <a href="https://www.instagram.com/osservatoridigitalinnovation/" target="_blank">
+                <span class="socicon-instagram"></span>
+            </a>
+        </li>
+        <li class="fl-left">
+            <a href="https://www.youtube.com/user/OsservatoriICT" target="_blank">
+              <span class="socicon-youtube"></span>
+            </a>
+        </li>
+    </ul>
+
+      <span class="indexer"><a class="no-text" href="https://www.osservatori.net/it_it/">Osservatori</a></span>
+    <ul class="user-panel clearfix rel-container">
+    <li class="fl-left wrap-popup">
+                    <a class="unregister-link has-popup rel-container" href="javascript:void(0)">Login</a>
+                            <div class="login-panel popup-content">
+                <div class="cont-form flex-displayed flex-column">
+                    <h3 class="title-border">Utente Registrato</h3>
+                    <div class="box-inner flex-displayed flex-column">
+                        <form name="registration" method="post" id="login-popup-form"
+                              action="https://www.osservatori.net/it_it/customer/account/loginPost/">
+                            <div class="field">
+                                <label>E-mail</label>
+                                <input type="text" name="login[username]" value="" class="grid-100 validate-email-popup">
+                            </div>
+                            <div class="field">
+                                <label>Password</label>
+                                <input type="password" name="login[password]" value="" class="grid-100 validate-password-popup">
+                            </div>
+                            <a class="recovery-psw"
+                               href="https://www.osservatori.net/it_it/customer/account/forgotpassword/">Hai dimenticato la password?</a>
+
+                                                            <div class="control remember-me-box">
+    <div class="input-box">
+        <input type="checkbox" name="login[remember]" class="checkbox" title="Ricordami" />
+    </div>
+    <label for="pass">Ricordami</label>
+    <a class="link-tip" href="#">Dettagli</a>
+</div>                                <div class="remember-me-popup">
+    <div class="remember-me-popup-head">
+        <h3>Dettagli</h3>
+        <a href="#" class="remember-me-popup-close" title="Chiudi">x</a>
+    </div>
+    <div class="remember-me-popup-body">
+        <p>Scegliendo &quot;Ricordami&quot;, riduci il numero di volte in cui ti verrà chiesto di accedere su questo dispositivo.
+Per mantenere la sicurezza del tuo account, utilizza questa opzione solo su dispositivi personali.</p>
+
+    </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+function toggleRememberMePopup() {
+    var formParent = jQuery(this).parents('form:first');
+    formParent.find('.remember-me-box a').toggleClass('hide');
+    formParent.find('.remember-me-popup').toggleClass('show');
+    return false;
+}
+var rememberMeToggleSetup = false;
+jQuery(document).ready(function(){
+    if (!rememberMeToggleSetup) {
+        jQuery('.remember-me-box a, .remember-me-popup a').on('click', toggleRememberMePopup);
+        rememberMeToggleSetup = true;
+    }
+});
+//]]>
+</script>
+                                                        <div class="wrap-sub flex-centered">
+                                <button type="submit" name="register-submit"
+                                        class="button-darkblue register">Accedi</button>
+                            </div>
+                            <input name="form_key" type="hidden" value="NBUk00U1VfsjitJH" />
+                        </form>
+                    </div><!--box-inner-->
+                </div>
+                <div class="cont-form flex-displayed flex-column">
+                    <h3 class="title-border">Registrati</h3>
+                    <div class="box-inner flex-displayed flex-column">
+                        <p class="desc-reg">La registrazione <strong>gratuita</strong> permette di:</p>
+                        <ul class="list-desc">
+                            <li><strong>iscriversi agli Eventi gratuiti</strong></li>
+                            <li>
+                                <strong><strong>accedere ai contenuti gratuiti del sito</strong> degli Osservatori</strong>
+                            </li>
+                        </ul>
+                        <div class="wrap-sub flex-centered">
+                            <a href="https://www.osservatori.net/it_it/customer/account/create/"
+                               class="button-darkblue unregister">Registrati</a>
+                        </div>
+                    </div><!--box-inner-->
+                </div><!--cont-form-->
+            </div><!--login-panel-->    </li>
+    <li class="fl-left">
+                <a class="mini-cart" href="https://www.osservatori.net/it_it/checkout/cart/">Carrello</a>
+            </li>
+
+                <li class="fl-left">
+            <a class="lang-selector" href="https://www.osservatori.net/ww_en/?___from_store=it_it"><span class="flag ww_en"></span></a>        </li>
+        </ul>
+<script type="text/javascript">
+    //<![CDATA[
+    var dataForm = new VarienForm('login-popup-form', true);
+
+    Validation.add('validate-password-popup', 'La password deve essere di almeno 6 caratteri.', function(v) {
+        return /^\S{6,}$/.test(v);
+    });
+    Validation.add('validate-email-popup', 'Inserire un indirizzo email valido.', function(v) {
+        return Validation.get('IsEmpty').test(v) || /^([a-z0-9,!\#\$%&'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9,!\#\$%&'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*@([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*\.(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]){2,})$/i.test(v)
+    });
+    //]]>
+</script>
+  </div><!--top-header-->
+
+  <nav class="wrap-nav flex-centered flex-wrap">
+    <ul class="os-navigation rel-container white clearfix"><li class="level0 nav-8 last parent"><a href="#" class="level0 has-children">Osservatori</a><ul class="level0"><li class="level1 nav-8-1 first"><a href="https://www.osservatori.net/it_it/osservatori/chi-siamo" class="level1 ">Chi siamo</a></li><li class="level1 nav-8-2"><a href="https://www.osservatori.net/it_it/osservatori/osservatori" class="level1 ">Osservatori</a></li><li class="level1 nav-8-3"><a href="https://www.osservatori.net/it_it/osservatori/guide_digitali" class="level1 ">Guide Digitali</a></li><li class="level1 nav-8-4"><a href="https://www.osservatori.net/it_it/osservatori/comunicati-stampa" class="level1 ">Comunicati stampa</a></li><li class="level1 nav-8-5"><a href="https://www.osservatori.net/it_it/osservatori/rassegna-stampa" class="level1 ">Rassegna stampa</a></li><li class="level1 nav-8-6 last"><a href="https://www.osservatori.net/it_it/osservatori/comitato-scientifico" class="level1 ">Comitato Scientifico</a></li></ul></li>
+<li class="level0 nav-7 parent"><a href="/it_it/abbonamenti-premium-pass" class="level0 has-children">Abbonamenti</a><ul class="level0"><li class="level1 nav-7-1 first"><a href="https://www.osservatori.net/it_it/abbonamenti-cms/abbonamenti-premium-pass" class="level1 ">Abbonamenti Personali</a></li><li class="level1 nav-7-2 last"><a href="https://www.osservatori.net/it_it/abbonamenti-cms/abbonamenti-premium-pass-aziendali" class="level1 ">Aziendali</a></li></ul></li>
+<li class="level0 nav-1 first parent"><a href="#" class="level0 has-children">Percorsi</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.osservatori.net/it_it/percorsi">Mostra tutti</a></li><li class="level1 nav-1-1 first"><a href="https://www.osservatori.net/it_it/percorsi/percorsi-2020" class="level1 ">Percorsi 2020</a></li><li class="level1 nav-1-2"><a href="https://www.osservatori.net/it_it/percorsi/percorsi-2019" class="level1 ">Percorsi 2019</a></li><li class="level1 nav-1-3"><a href="https://www.osservatori.net/it_it/percorsi/percorsi-2018" class="level1 ">Percorsi 2018</a></li><li class="level1 nav-1-4 last"><a href="https://www.osservatori.net/it_it/percorsi/percorsi-2017" class="level1 ">Percorsi 2017</a></li></ul></li>
+<li class="level0 nav-2 parent"><a href="#" class="level0 has-children">Pubblicazioni</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.osservatori.net/it_it/pubblicazioni">Mostra tutti</a></li><li class="level1 nav-2-1 first"><a href="https://www.osservatori.net/it_it/pubblicazioni/grafici" class="level1 ">Grafici (NEW)</a></li><li class="level1 nav-2-2"><a href="https://www.osservatori.net/it_it/pubblicazioni/rapporti" class="level1 ">Rapporti</a></li><li class="level1 nav-2-3"><a href="https://www.osservatori.net/it_it/pubblicazioni/slide-booklet" class="level1 ">Slide Booklet</a></li><li class="level1 nav-2-4"><a href="https://www.osservatori.net/it_it/pubblicazioni/business-case" class="level1 ">Business Case</a></li><li class="level1 nav-2-5"><a href="https://www.osservatori.net/it_it/pubblicazioni/pacchetti" class="level1 ">Raccolte</a></li><li class="level1 nav-2-6 last"><a href="https://www.osservatori.net/it_it/pubblicazioni/infografiche" class="level1 ">Infografiche</a></li></ul></li>
+<li class="level0 nav-3 parent"><a href="#" class="level0 has-children">Convegni</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.osservatori.net/it_it/convegni">Mostra tutti</a></li><li class="level1 nav-3-1 first"><a href="https://www.osservatori.net/it_it/convegni/prossimi" class="level1 ">Prossimi Convegni</a></li><li class="level1 nav-3-2 last"><a href="https://www.osservatori.net/it_it/convegni/archivio" class="level1 ">Archivio Convegni</a></li></ul></li>
+<li class="level0 nav-4 parent"><a href="#" class="level0 has-children">Workshop</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.osservatori.net/it_it/workshop">Mostra tutti</a></li><li class="level1 nav-4-1 first"><a href="https://www.osservatori.net/it_it/workshop/prossimi" class="level1 ">Prossimi Workshop</a></li><li class="level1 nav-4-2 last"><a href="https://www.osservatori.net/it_it/workshop/archivio" class="level1 ">Archivio Workshop</a></li></ul></li>
+<li class="level0 nav-5 parent"><a href="#" class="level0 has-children">Webinar</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.osservatori.net/it_it/webinar">Mostra tutti</a></li><li class="level1 nav-5-1 first"><a href="https://www.osservatori.net/it_it/webinar/prossimi" class="level1 ">Prossimi Webinar</a></li><li class="level1 nav-5-2 last"><a href="https://www.osservatori.net/it_it/webinar/archivio" class="level1 ">Archivio Webinar</a></li></ul></li>
+<li class="level0 nav-6"><a href="https://www.osservatori.net/it_it/video" class="level0 ">Video</a></li><li id="external-link"><a href="https://blog.osservatori.net/it_it">Blog</a></li><li id="mobile-language-switcher"><a class="lang-selector-mobile" href="https://www.osservatori.net/ww_en/?___from_store=it_it"><span class="flag ww_en"></span></a></li></ul>    <div class="slide-sub-panel grid-100"></div>
+  </nav>
+
+  <div class="sub-nav-search flex-centered grid-100">
+    <form name="search" id="search_mini_form" class="rel-container" action="https://www.osservatori.net/it_it/catalogsearch/result/" method="get">
+    <div class="search-wrap flex-displayed">
+        <input type="search" name="q"
+               value="" id="search">
+        <select class="select-search custom" name="format">
+            <option value="all">Tutti</option><option value="105">Infografica</option><option value="106">Raccolta</option><option value="107">Business Case</option><option value="108_476">Convegno</option><option value="109_475">Webinar</option><option value="110_474_514_513">Workshop</option><option value="112">Percorso</option><option value="531">Grafici</option><option value="535">Video</option><option value="102_103">Report e Slide Booklet</option>        </select>
+        <button type="submit" class="button-darkblue">Cerca</button>
+    </div><!--search-wrap-->
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+</form>
+
+<script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Ricerca');
+        searchForm.initAutocomplete('https://www.osservatori.net/it_it/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>  </div><!--sub-nav-search-->
+
+  
+    <script>
+        removeActiveVoice();
+
+        var url = window.location.pathname.substring(7);
+        url = url.indexOf('/') > 0 ? url.substring(0, url.indexOf('/')).toLowerCase() : url;
+        var hrefUrlComplete = getPathOfUrl(window.location.href).toLowerCase();
+
+        var refer = getPathOfUrl(document.referrer).substring(7);
+        refer = refer.indexOf('/') > 0 ? refer.substring(0, refer.indexOf('/')).toLowerCase() : refer;
+        var referUrlComplete = getPathOfUrl(document.referrer).toLowerCase();
+
+        var urlNotInMenu = getPathOfUrlNotInMenu(window.location.href).toLowerCase();
+        var urlNotInMenuFirstLevel = getPathOfUrlNotInMenuFirstLevel(window.location.href).toLowerCase();
+
+        jQuery("#header .os-navigation li.level0").each(function() {
+            var hrefMenu = jQuery(this).find("ul.level0 li.level1");
+            var hrefToActive = jQuery(this);
+            //first search: menu url
+            var find = searchActiveVoiceInMenu(hrefMenu, hrefToActive, hrefUrlComplete);
+            //second search: url not present in menu. Use refer
+            if (!find){
+                find = searchActiveVoiceInMenu(hrefMenu, hrefToActive, referUrlComplete);
+            }
+            //third search: url not present in menu and empty refer
+            if (!find){
+                find = searchActiveVoiceInMenu(hrefMenu, hrefToActive, urlNotInMenu);
+            }
+            //third search: url not present in menu and empty refer
+            if (!find){
+                searchActiveVoiceInMenu(hrefMenu, hrefToActive, urlNotInMenuFirstLevel);
+            }
+        });
+
+        function searchActiveVoiceInMenu(hrefMenu, hrefToActive, hrefUrlToCheck) {
+            var find = false;
+            hrefMenu.each(function() {
+                var subMenuA = jQuery(this).find("a");
+                var hrefSubMenu = jQuery(this).find("a").attr("href");
+                hrefSubMenu = getPathOfUrl(hrefSubMenu).toLowerCase();
+                //TODO: gestire una soluzione migliore (url !== "video") per questa casistica
+                if(hrefSubMenu.indexOf(url) > 0 && url !== "video"){
+                    hrefToActive.addClass("active");
+                    if(hrefUrlToCheck === hrefSubMenu){
+                        subMenuA.addClass("active");
+                        find = true;
+                    }
+                }
+            });
+            return find;
+        }
+
+        function getPathOfUrl(url) {
+            var urlRet = "";
+            url = url.split( '/' );
+            for (var i = 3; i<url.length; i++) {
+                urlRet = urlRet + "/" + url[i];
+            }
+            return urlRet;
+        }
+
+        function getPathOfUrlNotInMenu(url) {
+            var urlRet = "";
+            url = url.split( '/' );
+            for (var i = 3; i<6; i++) {
+                urlRet = urlRet + "/" + url[i];
+            }
+            return urlRet;
+        }
+
+        function getPathOfUrlNotInMenuFirstLevel(url) {
+            var urlRet = "";
+            url = url.split( '/' );
+            for (var i = 3; i<5; i++) {
+                urlRet = urlRet + "/" + url[i];
+            }
+            return urlRet;
+        }
+
+        function removeActiveVoice() {
+            jQuery("#header .os-navigation li.level0").each(function() {
+                var hrefMenu = jQuery(this).find("ul.level0 li.level1");
+                var hrefToActive = jQuery(this);
+                hrefMenu.each(function() {
+                    var subMenuA = jQuery(this).find("a");
+                    hrefToActive.removeClass("active");
+                    subMenuA.removeClass("active");
+                });
+            });
+        }
+    </script>
+
+</header>        <div class="main-container" id="main">
+          <div class="main">
+                              <div class="std"><div class="wrap-main">
+<div class="center-main">
+      <ul class="breadcrumbs clearfix">
+        <li><a href="https://www.osservatori.net/it_it/">Homepage</a></li>
+        <li><a class="active" href="javascript:void(0)">404</a></li>
+      </ul>
+<h3 class="title-border text-small">Nessun risultato trovato!</h3>
+<div class="block-messages not-found" style="background-image: url(https://www.osservatori.net/skin/frontend/osservatori/osservatori/images/public/bg_messages_block_blue.jpg);">
+        <h3 class="title-messages">Spiacenti, la pagina <br> che stai cercando non esiste.</h3>
+        <p>Se hai digitato la URL direttamente, controlla che lo spelling sia corretto.</p>
+        <p>Se per arrivare qui hai cliccato un link, probabilmente <br> abbiamo spostato il contenuto.</p>
+        <p>Se non sei sicuro su come sei arrivato qui, torna <br> alla pagina precedente o torna alla nostra homepage.</p>
+        <a href="https://www.osservatori.net/it_it/" class="button-darkblue os-home">Torna alla Homepage</a>
+      </div>
+</div>
+</div></div>          </div><!--main-->
+        </div><!--main-container-->
+        <footer class="footer-container">
+  <div class="wrap-footer">
+    <div class="footer clearfix">
+      <div class="logo-container grid-25">
+        <div>
+          <img src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/images/assets/icons/logo_politecnico_footer.svg" alt="Logo Politecnico Milano - School of Managment">
+        </div>
+      </div>
+      <DIV class="foot-list white grid-25">
+<!-- FOOTER MENU OSSERVATORI -->
+<H3>Osservatori</H3><BUTTON class="trigger andada grid-100 no-display">Osservatori</BUTTON>
+<UL class="foot-toggle">
+<LI><A href="https://www.osservatori.net/it_it/osservatori/chi-siamo">Chi siamo</A></LI>
+<LI><A href="https://www.osservatori.net/it_it/osservatori/osservatori">Osservatori</A></LI>
+<LI><A href="https://www.osservatori.net/it_it/osservatori/guide_digitali">Guide Digitali</A></LI>
+<LI><A href="https://www.osservatori.net/it_it/osservatori/comunicati-stampa">Comunicati Stampa</A></LI>
+<LI><A href="https://www.osservatori.net/it_it/osservatori/rassegna-stampa">Rassegna stampa</A></LI>
+<LI><A href="https://www.osservatori.net/it_it/osservatori/comitato-scientifico">Comitato Scientifico</A></LI>
+</UL>
+<!-- FOOTER MENU PILLAR -->
+<!--<BR>
+<H3>Guide Digitali</H3><BUTTON class="trigger andada grid-100 no-display">Guide Digitali</BUTTON>
+<UL class="foot-toggle">
+<LI><A href="https://blog.osservatori.net/it_it/big-data-cosa-sono">Big Data</A></LI>
+<LI><A href="https://blog.osservatori.net/it_it/smart-working-cos-e-come-funziona-in-italia">Smart Working</A></LI>
+</UL>-->
+</DIV><div class="foot-list white grid-25">
+<h3>Acquista</h3>
+<button class="trigger andada grid-100 no-display">Acquista</button>
+<ul class="foot-toggle">
+<li><a href="https://www.osservatori.net/it_it/pubblicazioni/">Pubblicazioni</a></li>
+<li><a href="https://www.osservatori.net/it_it/convegni/">Convegni</a></li>
+<li><a href="https://www.osservatori.net/it_it/workshop/">Workshop</a></li>
+<li><a href="https://www.osservatori.net/it_it/webinar/">Webinar</a></li>
+<li><a href="https://www.osservatori.net/it_it/pubblicazioni/infografiche/">Infografiche</a></li>
+<li><a href="https://www.osservatori.net/it_it/abbonamenti-premium-pass/">Abbonamenti</a></li>
+<li><a href="https://www.osservatori.net/it_it/pubblicazioni/grafici/">Grafici</a></li>
+<li><a href="https://www.osservatori.net/it_it/video/">Video</a></li>
+</ul>
+</div><div class="foot-list white grid-25">
+<h3>Assistenza</h3>
+<button class="trigger andada grid-100 no-display">Assistenza</button>
+<ul class="foot-toggle">
+<li><a href="https://www.osservatori.net/it_it/osservatori/chi-siamo/contatti/">Contatti</a></li>
+<li><a href="https://www.osservatori.net/it_it/customer/account/login/">Registrati</a></li>
+<li><a href="https://www.osservatori.net/it_it/customer/account/">MyAccount</a></li>
+<li><a href="https://www.osservatori.net/it_it/termini-condizioni/">Termini e condizioni</a></li>
+<li><a href="https://www.osservatori.net/it_it/privacy-policy/">Privacy policy</a></li>
+<li><a href="https://www.osservatori.net/it_it/cookie-policy/">Cookie policy</a></li>
+<li><a href="https://www.osservatori.net/it_it/domande-frequenti">Domande frequenti</a></li>
+<li><a href="https://www.osservatori.net/it_it/sitemap/">Sitemap</a></li>
+</ul>
+</div>    </div><!--footer-->
+  </div><!--wrap-footer-->
+
+  <div class="sub-footer">
+    <div class="center-credits flex-displayed flex-align-center flex-justify-between">
+      <div class="credits">
+        <span class="copyright white">
+          2020 &copy; <strong>Osservatori Digital Innovation</strong> - Powered by <strong><a href="http://www.alpenite.com/">Alpenite</a></strong>
+        </span>
+         <ul class="sub-foot-link white clearfix">
+<li class="fl-left"><a href="http://www.polimi.it/" target="_blank">Polimi.it</a></li>
+<li class="fl-left"><a href="https://www.osservatori.net/it_it/privacy-policy/">Tutela della privacy</a></li>
+<li class="fl-left"><a href="https://www.osservatori.net/it_it/termini-condizioni/">Note legali</a></li>
+</ul>      </div>
+      <div class="payment-group flex-centered">
+        <img src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/images/assets/icons/payment_group.svg" alt="Pagamenti Sicuri">
+      </div><!--payment-group-->
+    </div><!--center-credits-->
+  </div><!--sub-footer-->
+</footer>
+
+
+<script src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/js/vendor/min/core.js"></script>
+<script src="https://www.osservatori.net/skin/frontend/osservatori/osservatori/js/lib/main.js"></script>
+<script type="text/javascript">
+	if (typeof dataLayer !== "undefined")
+	{
+		for (a = 0, b = EC.length; a < b; a++)
+		{
+			EC[a].apply(this,[dataLayer]);
+		}
+
+		/* AdWords Remarketing */
+		if (window.google_tag_params)
+		{
+			dataLayer.push(
+			{  
+				'event':				'fireRemarketingTag',
+				'google_tag_params': 	window.google_tag_params
+			});
+		}
+
+		if (typeof FB !== 'undefined') 
+		{
+			FB.Event.subscribe('edge.create',function(href) 
+		 	{
+				dataLayer.push(
+				{
+					'event': 			'socialInt',
+					'socialNetwork': 	'Facebook',
+					'socialAction': 	'Like',
+					'socialTarget': 	href
+				});
+			});
+		}
+
+		window.sendPlus = function(g)
+		{
+		    dataLayer.push(
+			{
+		        'event': 			'socialInt',
+		        'socialNetwork': 	'Google',
+		        'socialAction': 	'+1',
+		        'socialTarget': 	g.href
+		    });
+		};
+
+		if (typeof twttr !== 'undefined') 
+		{
+			twttr.ready(function (twttr) 
+			{
+				twttr.events.bind('click', function()
+				{
+					dataLayer.push(
+					{
+						'event': 			'socialInt',
+						'socialNetwork': 	'Twitter',
+						'socialAction': 	'tweet',
+						'socialTarget': 	window.location.href
+					});
+				}); 
+			});
+		}
+
+		/**
+		 * Visitor data implementation
+		 */
+
+		var visitor = 
+		{
+			visitorLoginState: 		'Logged out',
+			visitorType:			'NOT LOGGED IN',
+			visitorLifetimeValue:	0,
+			visitorExistingCustomer:'No',
+			
+		};
+
+		
+				
+		dataLayer.push(visitor);
+	}
+	else
+	{
+		console.log('dataLayer[] is not intialized. Check if GTM is installed properly');
+	}
+</script>                <div id="wishlist_edit_action_container"></div>
+          </div>
+    </div>
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWF8T3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KWF8T3');</script>
+<!-- End Google Tag Manager -->  </body>
+</html>
