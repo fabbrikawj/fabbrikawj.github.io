@@ -3,4 +3,4 @@
 # Lista documenti
 [LINK TO DOC SCUOLA COOP](/materiali_politecnico/APILA.pdf) 
 
-[LINK TO DOC SCUOLA COOP2](https://github.com/fabbrikawj/fabbrikawj.github.io/blob/main/materiali_politecnico/APILA.pdf) 
+[LINK TO DOC SCUOLA COOP2](/materiali_politecnico/APILA.pdf) 
